@@ -2,6 +2,6 @@
 Integrantes y roles
 
 Felipe Perez - Líder
-Luis Gelacio - Diseñadora
+Luis Gelacio - Diseñador
 Perez Felipe - Integrador
-Gelacio Luis - Documentadora
+Gelacio Luis - Documentador
